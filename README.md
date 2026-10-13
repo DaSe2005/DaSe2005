@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaSe2005&layout=compact)
 <!--
 **DaSe2005/DaSe2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
