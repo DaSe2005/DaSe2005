@@ -1,14 +1,7 @@
-<div align="center">
+### Hey 👋
 
-# DaSe2005
+**Mathematics @ TU Darmstadt** · Minor in Computer Science
 
-**Mathematics @ TU Darmstadt**  
-Minor in Computer Science
+I like working with data, models, and code — mostly building things that I find useful or interesting.
 
-Interested in data, machine learning, modeling and building useful things.
-
-<br><br>
-
-<img src="./profile/top-langs.svg" alt="Most Used Languages" />
-
-</div>
+<img src="./profile/top-langs.svg" alt="Most Used Languages" width="400" />
